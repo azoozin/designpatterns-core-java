@@ -1,4 +1,5 @@
 import designpatternsgof.singleton.*;
+import designpatternsgof.strategy.*;
 
 public class App {
     public static void main(String[] args) throws Exception {
