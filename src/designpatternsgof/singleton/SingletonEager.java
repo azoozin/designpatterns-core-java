@@ -1,3 +1,5 @@
+package designpatternsgof.singleton;
+
 /**
  * Singleton lazy "apressado"
  * 

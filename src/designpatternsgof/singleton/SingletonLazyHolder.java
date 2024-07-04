@@ -1,3 +1,4 @@
+package designpatternsgof.singleton;
 
 public class SingletonLazyHolder {
 
